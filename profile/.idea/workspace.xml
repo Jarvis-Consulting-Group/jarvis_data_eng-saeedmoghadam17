@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0052fc26-3e4f-48f9-ba02-6398b1f41be0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../linux_sql/scripts/host_info.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../linux_sql/scripts/host_info.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profile.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/profile.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +28,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/centos/dev/jarvis_data_eng_saeed/linux_sql/scripts/host_info.sh"
+    "last_opened_file_path": "/home/centos/dev/jarvis_data_eng_saeed/profile/profile.yaml"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
