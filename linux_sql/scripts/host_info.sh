@@ -5,7 +5,7 @@ db_name=$3
 psql_user=$4
 psql_password=$5
 
-# check all five arguments are available in bash command
+# check all five arguments that are available in bash command
 if [ "$#" -ne 5 ]; then
   echo "Illegal number of parameters"
   exit 1
