@@ -33,12 +33,12 @@ Project source code: [https://github.com/Jarvis-Consulting-Group/jarvis_data_eng
 
 ## Education
 **Conestoga College (2022-2023)**, Postgraduate Certificate, Applied Computer Science & IT
-- Dean's List (2020-2021)
+- Dean's List (2022-2023)
 - GPA: 3.92/4.0
 
 **K.N. Toosi University of Technology- Tehran, Iran (2011-2013)**, Master of Engineering, Electrical and Computer Engineering
 
 
 ## Miscellaneous
-- Dean's List (2020-2021)
+- Dean's List (2022-2023)
 - swimmer
