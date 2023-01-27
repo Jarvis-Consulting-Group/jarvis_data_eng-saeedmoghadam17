@@ -1,0 +1,97 @@
+# Preferred name (Characters only)
+name: "Saeed Moghadam"
+# Your GitHub repo root URL
+github_repo_root_url: https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-saeedmoghadam17
+
+# Introduce yourself, your academic and professional background.
+# What excites you about the software industry and your passion. At least 80 words
+summary: "I'm a hardworking and self-motivated Software Developer at Jarvis with an academic background in web database application development from Conestoga College. I am skilled in Core Java, Spring Boot, Bash Script, SQL language, and database design. I'm eager to learn new tools and technologies and desire to grow and excel in software development."
+
+# Group your skills by level.
+# Your skills can be anything software related (e.g. language, frameworks, methodologies, software, etc.).
+skills:
+  # At least 5 skills
+  proficient:
+    - Java
+    - Linux/Bash
+    - RDBMS/SQL
+    - Docker
+    - Spring Boot
+    - Agile/Scrum
+    - Git
+  # At least 5 skills
+  competent:
+    - OLAP and Data Warehousing
+    - Web Technology (HTML/CSS)
+    - VBA Excel (Macro)
+    - Power Query and ETL
+    - Power BI
+  # At least 5 skills
+  familiar:
+    - Hadoop Ecosystem and Apache HIVE
+    - Python
+    - AWS and GCP Cloud
+    - DAX query
+    - Java Script
+
+# List of Jarvis projects
+jarvis_projects:
+  - name: "Cluster Monitor"
+    git_url: "/linux_sql"
+    # The project description allows hiring managers to understand your project and technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: "Developed a Minimum Viable Linux Cluster Monitoring Agent that monitors nodes' hardware information and resource usage every minute and stores it in a PostgreSQL database. The Dockerized application was deployed by SQL and Bash Scripts."
+
+# List of personal or academic projects
+# Feel free to add more projects
+highlighted_projects:
+    #project name
+  - name: "JDBC Program with MySQL- Conestoga College"
+    #URL is optional
+    git_url: "https://github.com/saeedmoghadam17/JDBC-Program-with-MySQL/settings"
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: "Developed a command line object-oriented java database connectivity program that connects to MySQL and issues CRUD queries after validating user data. The program is built on entity and database transaction classes, input data validation, and a test program."
+  - name: "DWH and Reporting Solution for a Retailer- Conestoga College"
+    git_url: "https://github.com/saeedmoghadam17/DWH-and-Reporting-Solution-for-a-Retailer"
+    description: "Designed the sale data mart and OLAP cube from the OLTP database in a teamwork project to give the client its company's sale analysis capability. The project was developed on Oracle SQL Plus, SQL Developer and Analytical Workspace Manager."
+
+#List of professional experience
+#The job description allows hiring managers to understand your job and the technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
+#The description must be more than 25 words. If your experience is not software related, please focus on soft skills and achievements (e.g. team collaboration, problem-solving, improvements, communication).
+professional_experience:
+  #Write your Jarvis role as a professional experience rather than training.
+  - title: "Software Developer"
+    company: "Jarvis"
+    duration: "2023-present"
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: "Developed projects using GitFlow, incorporating technologies and tools like Bash, SQL, and Java languages, Google Cloud Platform, Spring Boot framework, and Docker container. Collaborated with a team in daily scrum meetings and bi-weekly sprint meetings to implement Agile development practices as a software developer."
+  - title: "Electronics Engineer"
+    company: "Nargan - Iran"
+    duration: "2015-2020"
+    description: "Accomplished three petrochemical engineering teamwork projects with multi-tasks responsibilities: data management, documentation, proposal, data reporting, and technical bead evaluation. Developed Excel VBA codes to verify vendors' design databases or create technical diagrams. provided Excel and Power BI reports that improved the company's sale performance and reducing costs."
+
+#List of edcuation
+education: 
+  - school_name: "Conestoga College"
+    duration: "2022-2023"
+    degree: "Postgraduate Certificate"
+    department: "Applied Computer Science & IT"
+    # optional
+    awards_achievements: 
+      - "Dean's List (2020-2021)"
+      - "GPA: 3.92/4.0"
+  - school_name: "K.N. Toosi University of Technology- Tehran, Iran"
+    duration: "2011-2013"
+    degree: "Master of Engineering"
+    department: "Electrical and Computer Engineering"
+    awards_achievements:
+
+#Optional section
+others:
+    #category
+  - title: "Awards"
+    bullets:
+      - "Dean's List (2020-2021)"
+  - title: "Activities/Hobbies"
+    bullets:
+      - "swimmer"
